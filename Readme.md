@@ -34,6 +34,18 @@ An AI-powered chatbot using Google's Gemini API where users can interact with mu
 * Environment Variables
 * AI Personality Simulation
 
+### 🧠 Assignment 3 – Memory Vault Chatbot
+
+A stateful chatbot that remembers previous conversations using Streamlit's st.session_state, providing a continuous and natural chat experience.
+
+Key Concepts
+
+Streamlit Session State
+Stateful Chat Applications
+Conversation Memory
+Chat History Rendering
+Google Gemini API
+
 ## 🛠️ Technologies Used
 
 * Python
