@@ -120,8 +120,6 @@ streamlit run app.py
 
 **Rishyup Doliya**
 
-Developed as part of the **Virtual Summer Internship 2026 – AI Builder Track**.
-
 ---
 
 ## 📄 License
