@@ -53,6 +53,27 @@ Google Gemini API
 * Google Gemini API
 * python-dotenv
 
+### 🎨 Assignment 4 – AI Image Studio
+
+An AI-powered image generation application built with **Streamlit** and **Pollinations AI**.
+
+#### Features
+
+- AI Image Generation
+- Multiple Art Styles
+- Width & Height Controls
+- Magic Enhance Toggle
+- Surprise Me Button
+- PNG Image Download
+
+#### Technologies
+
+- Python
+- Streamlit
+- Requests
+- Pollinations AI
+  
+
 ## 👨‍💻 Author
 
 **Rishyup Doliya**
