@@ -1,0 +1,6 @@
+streamlit>=1.46.0
+google-genai
+python-dotenv
+requests
+gTTS
+Pillow
