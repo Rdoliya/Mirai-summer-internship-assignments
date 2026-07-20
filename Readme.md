@@ -72,7 +72,37 @@ An AI-powered image generation application built with **Streamlit** and **Pollin
 - Streamlit
 - Requests
 - Pollinations AI
-  
+
+### 🎮 Assignment 5 – Multi-Modal Visual Novel
+
+An interactive AI-powered visual novel built with **Google Gemini**, **Pollinations AI**, and **gTTS**, allowing users to experience a dynamic "Choose Your Own Adventure" story with AI-generated images and narration.
+
+**Key Concepts**
+
+* Google Gemini API
+* Pollinations AI
+* JSON Parsing
+* Dynamic UI Generation
+* Streamlit Session State
+* Text-to-Speech (gTTS)
+* AI Prompt Engineering
+* Error Handling
+
+  ## 🛠️ Technologies Used
+
+* Python
+* Streamlit
+* Google Gemini API
+* Pollinations AI
+* gTTS
+* Requests
+* Pillow
+* JSON
+* google-genai
+* python-dotenv
+* Session State Management
+* Prompt Engineering
+
 
 ## 👨‍💻 Author
 
